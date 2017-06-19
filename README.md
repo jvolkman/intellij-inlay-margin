@@ -1,0 +1,1 @@
+# intellij-inlay-margin
